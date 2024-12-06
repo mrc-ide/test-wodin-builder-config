@@ -1,0 +1,10 @@
+name: Build Wodin Sites
+
+on: [push]
+
+jobs:
+  build-wodin-sites:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build
+        uses: mrc-ide/wodin-builder-action
