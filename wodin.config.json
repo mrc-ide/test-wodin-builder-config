@@ -3,7 +3,7 @@
     "savePrefix": "msc-idm-2022",
     "port": 3000,
     "appsPath": "apps",
-    "baseUrl": "https://epimodels.dide.ic.ac.uk/msc-idm-2022",
+    "baseUrl": "https://mrc-ide.github.io/test-wodin-builder-config/",
     "odinApi": "http://odin.api:8001",
     "redisUrl": "redis://redis:6379"
 }
