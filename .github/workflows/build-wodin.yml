@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build
-        uses: mrc-ide/wodin-builder-action
+        uses: mrc-ide/wodin-builder-action@latest
